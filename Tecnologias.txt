@@ -1,0 +1,25 @@
+Tecnologías para estudiar:
+
+* Tor -> https://www.torproject.org/‎
+    * Para navegar la web.
+    * Para navegar la deep web.
+    * para abrir un hiden service.
+* Chat usando OTR -> https://otr.cypherpunks.ca/
+* Pond -> https://pond.imperialviolet.org/
+    * Como cliente
+    * Como servidor
+* BitTorrent -> http://www.bittorrent.com/
+    * Para bajar archivos
+    * para compartir archivos
+    * BitTorrent Sync como alternativa a Dropbox
+* BitMessage -> https://bitmessage.org/wiki/Main_Page
+* Tox -> https://tox.im/
+* Twister -> http://twister.net.co/
+* i2p -> http://geti2p.net/en/
+* Dominios .bit (namecoin) -> http://namecoin.info/
+* PGP/GPG -> https://www.gnupg.org/
+    * Manejo Básico
+    * Web of Trust
+    * Confirmación de llaves
+* netsukuku -> http://en.wikipedia.org/wiki/Netsukuku 
+* cjdns -> https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md#what

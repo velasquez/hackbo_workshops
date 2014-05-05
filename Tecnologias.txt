@@ -16,6 +16,7 @@ Tecnologías para estudiar:
 * Tox -> https://tox.im/
 * Twister -> http://twister.net.co/
 * i2p -> http://geti2p.net/en/
+    * I2P-Bote -> https://thetinhat.com/tutorials/email/i2pbote.html
 * Dominios .bit (namecoin) -> http://namecoin.info/
 * PGP/GPG -> https://www.gnupg.org/
     * Manejo Básico

@@ -30,3 +30,5 @@ Tecnologías para estudiar:
 * Portal ->  https://github.com/grugq/portal
 * Tails -> https://tails.boum.org/
 * RetroShare -> http://retroshare.sourceforge.net/
+* RedPhone -> https://github.com/WhisperSystems/RedPhone
+

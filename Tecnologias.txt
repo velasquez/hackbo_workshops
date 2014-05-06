@@ -24,8 +24,7 @@ Tecnologías para estudiar:
     * Confirmación de llaves
 * netsukuku -> http://en.wikipedia.org/wiki/Netsukuku 
 * cjdns -> https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md#what
-* Bitcoin -> https://bitcoin.org
-    * Como se usa
+* Bitcoin - cryptomonedas en general
     * Como usar, cuidar y mantener anónima una  wallet
 * Portal ->  https://github.com/grugq/portal
 * Tails -> https://tails.boum.org/
